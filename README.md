@@ -1,4 +1,4 @@
-## TEIS IFSP Teaming Data Question
+## TEIS Outcomes Calculation
 
 [The Tennessee Early Intervention System (TEIS)](https://www.tn.gov/disability-and-aging/disability-aging-programs/teis.html) is a program program that offers therapy and other services to families of infants and young children with developmental delays or disabilities. 
 
